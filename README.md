@@ -88,6 +88,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - contact@ahmetsargin.com
+Ahmet Sargın - contact@ahmetsargin.com
 
 Project Link: [https://github.com/asargin-dev/gouant](https://github.com/asargin-dev/gouant)
